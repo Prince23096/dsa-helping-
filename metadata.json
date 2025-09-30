@@ -1,0 +1,5 @@
+{
+  "name": "DSA Visualizer",
+  "description": "An interactive web application for visualizing common data structures and algorithms. See step-by-step animations for sorting, searching, linked lists, and more, complete with explanations and C/C++ code snippets.",
+  "requestFramePermissions": []
+}
